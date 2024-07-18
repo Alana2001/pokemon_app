@@ -1,19 +1,4 @@
 # pokemon_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# pokemon_app
->>>>>>> 05b44bf291cf60944247d244b5804196adfee5fd
+## Explicação:
+Um aplicativo Flutter utilizando a biblioteca PROVIDER para gerenciar o estado. O aplicativo consome dados de uma API Pokémon, permitindo favoritar itens e exibir uma lista de itens favoritados que podem ser removidos.
